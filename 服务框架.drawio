@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T13:55:36.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.4" etag="W_NfCFtRbWfXj6SD-BZ_" type="github"><diagram id="DxwSFhJ_2jPgTXqsViRS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-08T06:26:37.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="OLm6Mj6Hcf8tCvzQR2yO" version="14.4.4" type="github">
+  <diagram id="DxwSFhJ_2jPgTXqsViRS" name="第 1 页">
+    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-1" value="自然场景文本检测与识别服务平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-2" value="控制层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-3" value="业务处理层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-4" value="文件存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-5" value="控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-7" value="服务器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-9" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-11" value="检测与识别模型" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;width=6;startSize=3.67;endSize=3.67;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="270" as="sourcePoint" />
+            <mxPoint x="495" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ez0Ontq7BIwgbJp_MFcS-13" value="API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="115" width="440" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
