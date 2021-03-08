@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T13:10:59.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="DgUyQH6ADfjESCx0_YQG" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T06:26:55.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Ca9uY3gydjPOcYHAR3wU" version="14.4.4" type="github">
   <diagram id="fC3auHthrqKpHiKXN0IN" name="第 1 页">
     <mxGraphModel dx="1185" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -562,8 +562,8 @@
         <mxCell id="iBZG6MA6ub6qvU_hfU15-243" value="&lt;font style=&quot;font-size: 10.5px&quot;&gt;BLSTM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10.5;direction=east;flipH=0;flipV=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="363.4707275483138" y="555.1701849332363" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iBZG6MA6ub6qvU_hfU15-244" value="&lt;font style=&quot;font-size: 10.5px&quot;&gt;三值化PCANet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10.5;" vertex="1" parent="1">
-          <mxGeometry x="413.4129442970823" y="698.4405685008346" width="90" height="20" as="geometry" />
+        <mxCell id="iBZG6MA6ub6qvU_hfU15-244" value="&lt;font style=&quot;font-size: 10.5px&quot;&gt;经典PCANet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10.5;" vertex="1" parent="1">
+          <mxGeometry x="418.4129442970823" y="698.4405685008346" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iBZG6MA6ub6qvU_hfU15-245" value="输入" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="528.8407957559682" y="640.1144386640229" width="78.24933687002653" height="47.41961775350544" as="geometry" />
@@ -578,18 +578,6 @@
           <mxGeometry x="76.55962864721485" y="568.1788785319552" width="39.12466843501326" height="39.5163481279212" as="geometry">
             <mxPoint x="225.23336870026526" y="710.4377317924716" as="sourcePoint" />
             <mxPoint x="233.05830238726793" y="639.3083051622134" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iBZG6MA6ub6qvU_hfU15-253" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iBZG6MA6ub6qvU_hfU15-175" target="iBZG6MA6ub6qvU_hfU15-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="580" as="sourcePoint" />
-            <mxPoint x="370" y="530" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="456" y="610" />
-              <mxPoint x="330" y="610" />
-              <mxPoint x="330" y="530" />
-              <mxPoint x="177" y="530" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
